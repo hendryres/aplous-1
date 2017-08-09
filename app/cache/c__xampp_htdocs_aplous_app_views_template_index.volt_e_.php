@@ -1,4 +1,4 @@
-a:3:{i:0;s:2394:"<!DOCTYPE html>
+a:3:{i:0;s:2437:"<!DOCTYPE html>
 <html>
   <head>
     <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
@@ -41,8 +41,8 @@ a:3:{i:0;s:2394:"<!DOCTYPE html>
         <div class="p-l-50 m-l-20 p-r-50 m-r-20 p-t-50 m-t-30 sm-p-l-15 sm-p-r-15 sm-p-t-40">
           
           <!-- START Login Form -->
-			";s:7:"content";a:1:{i:0;a:4:{s:4:"type";i:357;s:5:"value";s:4:"
-			";s:4:"file";s:52:"C:\xampp\htdocs\aplous/app/views/template/index.volt";s:4:"line";i:45;}}i:1;s:1693:"
+			";s:7:"content";a:1:{i:0;a:4:{s:4:"type";i:357;s:5:"value";s:5:"
+			";s:4:"file";s:52:"C:\xampp\htdocs\aplous/app/views/template/index.volt";s:4:"line";i:45;}}i:1;s:1724:"
           
           <!--END Login Form-->
           

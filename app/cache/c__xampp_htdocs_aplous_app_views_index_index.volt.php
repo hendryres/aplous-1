@@ -54,7 +54,7 @@
 			<form name="frmlogin" id="frmlogin" method="post" class="frmlogin" onsubmit="login();return false;" enctype="multipart/form-data">
             <!-- START Form Control-->
             <div class="form-group form-group-default">
-              <label>Login</label>
+              <label>Login Testlagis</label>
               <div class="controls">
                 <input type="text" name="username" class="form-control" required>
               </div>
